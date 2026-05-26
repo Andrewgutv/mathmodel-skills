@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.DS_Store
+Thumbs.db
+
+tmp/
+temp/
+
+*.bak
+*.tmp
+
+# Keep example outputs intentionally versioned for regression coverage.

@@ -71,7 +71,7 @@ What is not acceptable:
 
 ## Remaining Risks
 
-The repository is not fully “finished.” The most important remaining risks are:
+The repository is not fully finished. The most important remaining risks are:
 
 1. Template-aligned DOCX output is not yet part of smoke tests.
 2. Scanned PDF and single-image prompt examples are still skeleton examples, not full regressions.
