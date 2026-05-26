@@ -1,0 +1,4 @@
+interface:
+  display_name: "MathModel"
+  short_description: "Contest modeling workflow and paper delivery"
+  default_prompt: "Use $mathmodel to analyze this math modeling contest problem, organize the project, and deliver the required paper artifacts."
